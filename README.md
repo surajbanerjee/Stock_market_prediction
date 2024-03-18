@@ -47,7 +47,13 @@ Time Frame: Choose your desired time frame to observe predicted days.
 Using this command we can run the code in our command prompt
 
 ```python
-python app.py
+python <file_name>.py
+```
+
+Way to run on streamlit, run the command in cmd. (make sure to run it where you have kept the python file)
+
+```streamlit
+streamlit run <file_name>.py
 ```
 
 ## Data Collection
